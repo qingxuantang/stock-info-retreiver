@@ -5,7 +5,7 @@ The app is combining google search and openai model via api to effectively conve
 
 First, don't forget to copy-paste your openai api key into the openaiapi.json file.<br>
 
-Then, make sure to install all the dependancies.<br>
+Then, make sure to install all the dependencies.<br>
 
 When all set, just run:<br>
 
