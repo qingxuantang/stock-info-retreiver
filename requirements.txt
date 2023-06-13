@@ -1,0 +1,13 @@
+json
+sqlalchemy
+urllib
+pandas
+numpy
+math
+re
+googlesearch-python
+importlib
+requests
+streamlit
+langchain
+beautifulsoup4
