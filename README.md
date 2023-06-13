@@ -7,6 +7,8 @@ First, don't forget to copy-paste your openai api key into the openaiapi.json fi
 
 Then, make sure to install all the dependencies.<br>
 
+<code>python3 -m pip install -r requirements.txt</code>
+
 When all set, just run:<br>
 
 <code>streamlit run main.py</code><br>
